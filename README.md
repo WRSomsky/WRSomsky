@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+My background is in theoretical physics, with a Ph.D. from Princeton University where I worked on computational particle physics.
+
+For the past thirty years, I have been a Senior Computer Specialist and the Linux Guru for the Physics and Astronomy departments at the University of Washington (Seattle), entrusted with the care and feeding of the departments’ Unix/Linux workstations and servers.
+
+I plan on using GitHub to share the various software tools I've created over the years.
 
 <!--
 **WRSomsky/WRSomsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
